@@ -1,15 +1,15 @@
-This is code that hide prices for products for not logged in customers.
+**Magento 2 module that hides prices of products for Guest Users.**
 
-# Getting Started
+## Getting Started
 
 
-## Step 1: Start the using composer
+### Step 1: Start using the composer
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+First, you will need to set up Magento2's latest version greater like 2.4.4.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+Run the following commands using composer installation:
 
-```bash
+```
 # using composer
  1) composer require ginnieWorks/hidePrice
  2) php bin/magento setup:upgrade
@@ -18,11 +18,11 @@ To start Metro, run the following command from the _root_ of your React Native p
 
 ## Step 2: Manual installation
 
-download files and move the files into the folder app/code/GinnieWorks/HidePrice.
+Download files and move the files into the folder app/code/GinnieWorks/HidePrice.
 Run the upgrade and cache commands
 
 # Troubleshooting
 
-If you can't get this to work, want to reach me out.contact me on mahmood.rehman240@gmail.com for further assistance.
+If you can't get this to work, want to reach out. Contact me at mahmood.rehman240@gmail.com for further assistance.
 
 
