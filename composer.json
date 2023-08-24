@@ -1,0 +1,15 @@
+{
+    "name": "GinnieWorks/HidePrice",
+    "description": "Module to hide price for Guest user",
+    "version": "1.0.0",
+    "type": "magento2-module",
+    "license": "MIT",
+    "require": {
+        "php": "~7.4",
+        "magento/framework": "~2.4.0",
+        "magento/module-catalog": "~2.4.0"
+    },
+    "require-dev": {
+        "magento/magento-composer-installer": "~2.0.0"
+    }
+}
